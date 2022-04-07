@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #eee;
+}
+
+.borderRed {
+    border: 1px solid red;
+}
+
+.pl-2 {
+    padding-left: 2rem;
+}
+
+.ml-lg-1 {
+    margin-left: 1rem;
+}
+
+.cardImg {
+    width: 300px;
+    height: auto;
+}
+
